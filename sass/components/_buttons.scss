@@ -1,0 +1,19 @@
+.btn
+{
+    &,
+    &:link,
+    &:visited
+    {
+        text-decoration: none;
+        display: inline-block;
+        
+    }
+
+    &-join
+    {
+        color: white;
+        padding: 1.5rem 6rem;
+        background-color: #1C7AA2;
+        text-transform: uppercase;
+    }
+}
